@@ -1,6 +1,6 @@
 # ReactJS ECommerce Website
 Under Development <br/><br/>
-Developing an E-commerce website with ReactJS frontend and Express.js backend. <br/>
+An E-commerce website with ReactJS frontend and Express.js backend. <br/>
 Utilized Apache MySQL for secure database management <br/>
 Implemented user authentication and  data storage features. <br/>
 Enabled seamless client-server communication using CORS. <br/>
